@@ -1,0 +1,122 @@
+{
+  "lists": [
+    {
+      "id": 3,
+      "name": "Frontend",
+      "colorId": 3
+    },
+    {
+      "id": 4,
+      "name": "Health",
+      "colorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Sport",
+      "colorId": 1
+    },
+    {
+      "name": "Home",
+      "colorId": 7,
+      "id": 6
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 3,
+      "text": "Learn js on LeetCode",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "listId": 3,
+      "text": "Learn React",
+      "completed": false,
+      "id": 22
+    },
+    {
+      "listId": 3,
+      "text": "Learn CSS",
+      "completed": false,
+      "id": 23
+    },
+    {
+      "listId": 4,
+      "text": "3 liters of water per day",
+      "completed": false,
+      "id": 24
+    },
+    {
+      "listId": 4,
+      "text": "Less coffee",
+      "completed": false,
+      "id": 25
+    },
+    {
+      "listId": 5,
+      "text": "Morning workout",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "listId": 5,
+      "text": "Running",
+      "completed": true,
+      "id": 27
+    },
+    {
+      "listId": 5,
+      "text": "Stretching",
+      "completed": false,
+      "id": 28
+    },
+    {
+      "listId": 6,
+      "text": "Cooking",
+      "completed": false,
+      "id": 29
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
