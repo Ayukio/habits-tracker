@@ -4,6 +4,7 @@ Habits tracker app can:
 * CRUD operations over habits on categories
 * mark tasks as completed
 
+![](https://github.com/Ayukio/habits-tracker/blob/master/htracker.gif)
 
 # Stack
 * React v16.11
