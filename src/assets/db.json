@@ -31,12 +31,12 @@
     {
       "listId": 3,
       "text": "Learn React",
-      "completed": false,
+      "completed": true,
       "id": 22
     },
     {
       "listId": 3,
-      "text": "Learn CSS",
+      "text": "Practice on CSS",
       "completed": false,
       "id": 23
     },
